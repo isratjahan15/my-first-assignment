@@ -15,6 +15,9 @@ body {
 .navbar {
   background: url('Assets/Hero-bg.png') no-repeat center center/cover;
 }
+.banner {
+  background: url('Assets/Hero-bg.png') no-repeat center center/cover;
+}
 
 .btn {
   background-color: #007bff;
